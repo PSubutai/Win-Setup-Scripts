@@ -8,6 +8,7 @@
 $WingetApps = @(
     "Malwarebytes.Malwarebytes"
 	"LibreWolf.LibreWolf"
+    "Microsoft.WindowsTerminal"
     "Microsoft.VisualStudioCode"
     "M2Team.NanaZip"
     "qBittorrent.qBittorrent"
