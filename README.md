@@ -1,6 +1,10 @@
 # Windows Setup Scripts
 
-A collection of PowerShell scripts for setting up a new Windows 11 install.
+A collection of PowerShell scripts and other resources for setting up a new Windows 11 install.
+
+**Note**: This was intended to only be used by me. It is likely not something the average user would want to use, and it may contain customisations that you do not want.
+
+**Warning**: If you do not know what you are doing and use what you see here, you may damage your Windows installation. I am not at fault for any damage you may cause.
 
 ## Table of Contents
 
