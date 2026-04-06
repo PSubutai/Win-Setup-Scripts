@@ -30,6 +30,7 @@ $WingetApps = @(
 	"ChemTableSoftware.AutorunOrganizer"
 	"File-New-Project.EarTrumpet"
 	"RamenSoftware.Windhawk"
+    "Obsidian.Obsidian"
 )
 
 # --- CHOCOLATEY APPS (add/remove package names) -------------
